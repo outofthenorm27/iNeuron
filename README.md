@@ -1,2 +1,2 @@
 # iNeuron-Assignments
-Projects for iNeuron program
+Projects for iNeuron
