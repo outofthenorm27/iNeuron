@@ -3,7 +3,7 @@
 ## Write a program which accepts a sequence of comma-separated numbers from console  and generate a list. 
 
 1. Create the below pattern using nested for loop in Python. 
-* 
+\* 
 * * 
 * * * 
 * * * * 
